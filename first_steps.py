@@ -2,7 +2,7 @@
 # Answers to questions that ask for non-code answers can simply be added as comments.
 
 # 1) The following line causes a SyntaxError. Please correct the line so that it's output is 'Hallo Welt!' [1P]
-print("Hallo Welt!")
+print("'Hallo Welt!'")
 
 # 2) Calculate the difference between a and b and assign the result to a variable called 'v_1'. What are the datatypes of a, b and 'v_1'? [2P]
 a = 976.543
